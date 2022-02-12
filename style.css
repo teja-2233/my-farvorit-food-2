@@ -1,0 +1,51 @@
+body{
+    text-align:center;
+}
+img{
+    width:40%;
+    padding-left:125px;
+}   
+#welcome{
+    background:linear-gradient(rgb(130, 149, 255) 0% , rgb(0, 38, 255) 100%) ;
+}
+.line{
+height:7px;
+width: 100px;
+background-color: black;
+margin:7px auto;
+}
+#about{
+    background:linear-gradient(rgb(74, 98, 231) 0% , rgb(0, 38, 255) 100%) ;
+    margin-top:-20px;
+    padding-top:20px;
+    
+}
+#welcome h1{
+    padding-top:50px;
+}
+#contact{
+    background:linear-gradient(rgb(255, 255, 255) 0% , rgb(21, 255, 0) 100%) ;  
+  
+}
+h3{
+    display: inline;
+}
+.menu{
+    position:absolute;
+    top: 0%;
+    right: 0%;
+}
+.links{
+    list-style:none;
+    display: inline;
+    padding:10px 20px;
+    font-size:15px;
+    font-weight:bold;
+    line-height:1.5;
+
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
